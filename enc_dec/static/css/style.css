@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(240, 240, 240) !important;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+div {
+  margin: 1%;
+}
+h1 {
+  text-align: center;
+  padding-top: 1%;
+}
+.card-text {
+  min-height: 50px;
+}
+p {
+  text-align: justify;
+}
+#method_head {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 5%;
+  font-weight: bold;
+}
+#result {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  font-size: xx-large;
+  margin-top: 10%;
+}
+#translate {
+  position: absolute;
+  left: 47%;
+  margin: 2% 0%;
+}
+#home_button{
+    margin-right: 5%;
+    float: right;
+}
